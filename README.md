@@ -1,7 +1,8 @@
 # Matrix-Factorization
 
 ## 简介  
-  矩阵分解算法pytorch实现
+  矩阵分解算法pytorch实现  
+  [English Version](README.en.md)
       
 ## 数据集
   采用GroupLens提供的MovieLens数据集  
