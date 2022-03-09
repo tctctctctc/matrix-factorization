@@ -6,7 +6,7 @@
 
 ## DateSet 
   uses the MovieLens dataset provided by GroupLens.  
-  There are three different versions of the MovieLens. This chapter selects a medium-sized dataset.  
+  There are three different versions of the MovieLens. Here selects a medium-sized dataset.  
   The dataset contains more than 6000 users' 1 million ratings of more than 4000 movies.  
  
 # Dataset Format  
