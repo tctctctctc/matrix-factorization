@@ -1,15 +1,13 @@
 # Matrix-Factorization
+[English Version](README.en.md)  
+矩阵分解算法pytorch实现  
 
-## 简介  
-  矩阵分解算法pytorch实现  
-  [English Version](README.en.md)
-      
-## 数据集
+### 数据集
   采用GroupLens提供的MovieLens数据集  
   MovieLens数据集有3个不同版本，选用中等大小的数据集  
   该数据集包含6000多名用户对4000多部电影的100万条评分
   
-# 数据集格式  
+### 数据集格式  
 	* ratings.dat: UserID::MovieID::Rating::Timestamp  
 	
 		- UserID:用户ID范围从1到6040  
@@ -77,6 +75,6 @@
 			* War
 			* Western
   
-## License
+### License
   [Apache-2.0 License](LICENSE)
 
