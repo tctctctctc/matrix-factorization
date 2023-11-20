@@ -1,15 +1,14 @@
 # Matrix-Factorization
 
-## Background  
-  Pytorch implementation of matrix decomposition algorithm  
-  [Zh Version](README.md)
+Pytorch implementation of matrix decomposition algorithm  
+[Chinese Version](README.md)
 
-## DateSet 
+### DateSet 
   uses the MovieLens dataset provided by GroupLens.  
   There are three different versions of the MovieLens. Here selects a medium-sized dataset.  
   The dataset contains more than 6000 users' 1 million ratings of more than 4000 movies.  
  
-# Dataset Format  
+### Dataset Format  
 	* ratings.dat: UserID::MovieID::Rating::Timestamp  
 	
 		- UserIDs range between 1 and 6040 
@@ -77,6 +76,6 @@
 			* War
 			* Western
   
-## License
+### License
   [Apache-2.0 License](LICENSE)
 
